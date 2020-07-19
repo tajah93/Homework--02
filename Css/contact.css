@@ -1,0 +1,22 @@
+.container {
+    font-family: 'Montserrat', sans-serif;
+    padding: 3em;
+}
+
+.contactForm {
+    background-color: white;
+    border: 10px solid #fbd2d7;
+    padding: 3em;
+}
+.form-group.col-md-6 {
+    font-weight: bold;
+}
+
+.form-group {
+    font-weight: bold;
+}
+
+.btn.btn-primary {
+    background-color: #fbd2d7;
+    border: #fbd2d7
+}
