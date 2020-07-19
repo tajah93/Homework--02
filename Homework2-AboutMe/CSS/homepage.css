@@ -1,0 +1,43 @@
+#whole-background {
+    background-color: #ecb7bf;
+  }
+
+.navbar.navbar.navbar-expand-lg.navbar-light.bg-light {
+  background-color: #fbd2d7
+  !important;
+}
+.navbar-brand {
+  background-color: #fbd2d7
+  !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-toggler {
+  background-color: #fbd2d7
+  !important;
+}
+
+#navbarNav {
+  background-color: #fbd2d7
+  !important;
+}
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+ }
+
+#TajahLouvre {
+  border: 10px solid #fbd2d7;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+#AM {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#AboutMe {
+  font-family: 'Poiret One', sans-serif;
+  font-size: 23px;
+ 
+}
