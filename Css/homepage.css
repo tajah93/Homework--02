@@ -30,14 +30,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding: auto;
   }
 
 #AM {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+  padding-top: 20px;
 }
+
 #AboutMe {
   font-family: 'Poiret One', sans-serif;
   font-size: 23px;
- 
+  padding-top: 10px;
 }
