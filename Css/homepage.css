@@ -1,32 +1,35 @@
 #whole-background {
-    background-color: #ecb7bf;
+    background-color: rgb(255, 231, 243) ;
   }
 
 .navbar.navbar.navbar-expand-lg.navbar-light.bg-light {
-  background-color: #fbd2d7
+  background-color: black
   !important;
 }
 .navbar-brand {
-  background-color: #fbd2d7
+  background-color: black;
+  color: white
   !important;
   font-family: 'Montserrat', sans-serif;
 }
 
 .navbar-toggler {
-  background-color: #fbd2d7
+  background-color: white
   !important;
-}
+} 
 
 #navbarNav {
-  background-color: #fbd2d7
+  background-color: black
   !important;
 }
 .nav-link {
   font-family: 'Montserrat', sans-serif;
+  color: white
+  !important;
  }
 
 #TajahLouvre {
-  border: 10px solid #fbd2d7;
+  border: 10px solid black;
   display: block;
   margin-left: auto;
   margin-right: auto;

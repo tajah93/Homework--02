@@ -5,7 +5,7 @@
 
 .contactForm {
     background-color: white;
-    border: 10px solid #fbd2d7;
+    border: 10px solid black;
     padding: 3em;
 }
 .form-group.col-md-6 {
@@ -17,6 +17,6 @@
 }
 
 .btn.btn-primary {
-    background-color: #fbd2d7;
-    border: #fbd2d7;
+    background-color: #f79be3;
+    border: #f79be3;
 }

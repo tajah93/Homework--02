@@ -5,19 +5,19 @@
 
 #SocialMedia {
     background-color: white;
-    border: 10px solid #fbd2d7;
+    border: 10px solid black;
     margin-right: 10px;
     
 }
 
 #GitHub {
     background-color: white;
-    border: 10px solid #fbd2d7;
+    border: 10px solid black;
     margin-left: 10px; 
 }
 
 .card-title {
-    color: #ecb7bf;
+    color: #f79be3;
     font-weight: bold;
     font-size: x-large;
 }
