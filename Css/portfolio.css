@@ -1,0 +1,30 @@
+.container {
+    font-family: 'Montserrat', sans-serif;
+    padding: 3em;
+}
+
+#SocialMedia {
+    background-color: white;
+    border: 10px solid #fbd2d7;
+    margin-right: 10px;
+    
+}
+
+#GitHub {
+    background-color: white;
+    border: 10px solid #fbd2d7;
+    margin-left: 10px; 
+}
+
+.card-title {
+    color: #ecb7bf;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.card-text {
+    font-family: 'Poiret One', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
