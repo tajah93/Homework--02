@@ -8,12 +8,17 @@
     border: 10px solid black;
     padding: 3em;
 }
+
 .form-group.col-md-6 {
     font-weight: bold;
 }
 
 .form-group {
     font-weight: bold;
+}
+
+#inputMessage { 
+     height: 200px; 
 }
 
 .btn.btn-primary {

@@ -1,11 +1,12 @@
 #whole-background {
     background-color: rgb(255, 231, 243) ;
-  }
+}
 
 .navbar.navbar.navbar-expand-lg.navbar-light.bg-light {
   background-color: black
   !important;
 }
+
 .navbar-brand {
   background-color: black;
   color: white
@@ -22,11 +23,12 @@
   background-color: black
   !important;
 }
+
 .nav-link {
   font-family: 'Montserrat', sans-serif;
   color: white
   !important;
- }
+}
 
 #TajahLouvre {
   border: 10px solid black;
@@ -34,7 +36,7 @@
   margin-left: auto;
   margin-right: auto;
   padding: auto;
-  }
+}
 
 #AM {
   font-family: 'Montserrat', sans-serif;
@@ -45,5 +47,14 @@
 #AboutMe {
   font-family: 'Poiret One', sans-serif;
   font-size: 23px;
-  padding-top: 10px;
+  padding-top:10px;
+}
+
+#footer {
+  background-color: #f79be3;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
 }
