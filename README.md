@@ -6,9 +6,7 @@ The task was to create a mobile-responsive portfolio. The project includes three
 
 ## Features
 
-LIVE LINKS: https://tajah93.github.io/Homework--02/
-            https://tajah93.github.io/Homework--02/contact.html
-            https://tajah93.github.io/Homework--02/portfolio.html
+LIVE LINKS: https://tajah93.github.io/Responsive-Portfolio/
 
 In this application you will find:
 
