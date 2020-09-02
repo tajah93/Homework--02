@@ -36,3 +36,28 @@
     color: black;
     font-weight: bold;
 }
+
+.btn.btn-primary, .btn.btn-primary:focus {
+    background-color: #f79be3;
+    border: #f79be3;
+    margin-bottom: 15px;
+    height: 5vh;
+}
+ .btn.btn-primary:hover, .btn.btn-primary:visited, .btn.btn-primary:active {
+     background-color: black;
+     border-color: black; 
+ }
+
+ @media only screen and (min-width: 1366px) {
+    .btn.btn-primary {
+        position: relative;
+        margin-left: 950px;
+    }
+}
+
+@media only screen and (max-width: 1365px) {
+    .btn.btn-primary {
+        position: relative;
+        margin-left: 700px;
+    }
+}

@@ -21,7 +21,45 @@
      height: 200px; 
 }
 
-.btn.btn-primary {
+.btn.btn-primary, .btn.btn-primary:focus{
     background-color: #f79be3;
     border: #f79be3;
+}
+
+.myInfo {
+    padding-top: 15px;
+    
+}
+
+#contactMe {
+    font-size: x-large;
+}    
+ 
+#mail {
+    color: #f79be3;
+}
+
+@media only screen and (min-width: 1366px) {
+    .myInfo {
+        position: relative;
+        margin-left: 1100px;
+    }
+}
+
+@media only screen and (max-width: 1365px) {
+    .myInfo {
+        position: relative;
+        margin-left: 700px;
+    }
+}
+
+.myContactNum {
+    margin-bottom: 0%;
+
+}
+
+.btn.btn-primary:hover, .btn.btn-primary:visited, .btn.btn-primary:active {
+    background-color: black;
+    border-color: black;
+    
 }
