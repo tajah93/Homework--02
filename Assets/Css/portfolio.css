@@ -28,3 +28,11 @@
     font-size: large;
 }
 
+.list-group-item, .list-group-item:hover {
+    color: #f79be3;
+}
+
+#header {
+    color: black;
+    font-weight: bold;
+}
